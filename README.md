@@ -115,3 +115,17 @@ erDiagram
     ATENDIMENTO ||--o{ ATENDIMENTO_SERVICO : possui
     SERVICO ||--o{ ATENDIMENTO_SERVICO : realizado_em
 ```
+
+Imagens da interface:
+
+<img width="655" height="695" alt="image" src="https://github.com/user-attachments/assets/77d49145-40d4-4e21-b712-4bcdf56e11f8" />
+
+<img width="1116" height="854" alt="image" src="https://github.com/user-attachments/assets/100cf9e9-1247-4221-a390-f06227a6ffac" />
+
+<img width="1044" height="454" alt="image" src="https://github.com/user-attachments/assets/9fd75c6f-fef4-4506-a2b6-ef53ae0f81e5" />
+
+<img width="1291" height="573" alt="image" src="https://github.com/user-attachments/assets/a24080d7-f375-4184-ac68-238e30319f31" />
+
+
+
+
